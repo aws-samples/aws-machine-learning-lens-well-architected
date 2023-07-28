@@ -1,4 +1,4 @@
-# AWS Machine Learning Lens for Well-Architected Tool
+## AWS Machine Learning Lens for Well-Architected Tool
 
 This repository holds the latest version of the Machine Learning Lens for the AWS Well-Architected Tool. The Lens is for AWS customers and partners to use when assessing ML Workloads for best practices and design principles according to the AWS Well-Architected framework.
 
@@ -8,10 +8,10 @@ The Machine Learning Lens is available in [whitepaper (HTML) format](https://doc
 
 Questions and FAQs on the ML lens can be directed to AWS re:Post, the ML on AWS commnity [here](https://www.repost.aws/topics/TAXwEBZll0TtWxbiOoSjJrfw/machine-learning-ai)
 
-Security
+## Security
 
 See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more information.
 
-License
+## License
 
 This library is licensed under the MIT-0 License. See the [LICENSE](LICENSE) file.
